@@ -7,11 +7,14 @@
 ```javascript
 const chanwoo = {
   gender: "male" | "he",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Node, tailwindcss, PostCSS, Jest, Git],
-  architecture: [Test-driven-Development, Refactoring],
-  interesting: [Web 3.0, Azure, ...],
-  challenge: "A day a commit"
+  skills: {
+    coreLanguage: [JavaScript, HTML, CSS, TypeScript, Python],
+    coreTools: [React, Node, git],
+    softwareDevelopment: ['Test Driven Development', 'Refactoring'],
+  },
+  interesting: ['Web 3.0', 'Web Component', 'Performance Optimization'],
+  aspiring: 'A sustainable developer',
+  challenge: 'A commit a day',
 }
 ```
 
