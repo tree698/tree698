@@ -15,7 +15,7 @@ const chanwoo = {
         Python: [Pandas, NumPy, Matplotlib, Seaborn, Plotly]
     },
 
-    Ongoing_Studying: {
+    Ongoing_Study: {
         ML_DL_NLP: [Scikit_Learn, TensorFlow, PyTorch, SpaCy, NLTK],
     },
 
