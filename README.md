@@ -1,20 +1,25 @@
-<h1> Hi, I'm Chanwoo <img src="https://user-images.githubusercontent.com/53497516/218467860-49b19aef-2e09-4f23-ae76-69b32f4c9d6e.gif" width="50"></h1>
-<img align='right' src="https://user-images.githubusercontent.com/53497516/218425161-d2292a9a-87a9-48c9-9a7c-44c5c164056e.png" width="230">
-<p><em>Frontend Developer </br>Let's work together to make the world a better place </p>
+# Hi, I'm Chanwoo  <img src="https://user-images.githubusercontent.com/53497516/218467860-49b19aef-2e09-4f23-ae76-69b32f4c9d6e.gif" width="50">
 
-### A little more about WHO I AM...
+<img align='right' src="https://user-images.githubusercontent.com/53497516/218425161-d2292a9a-87a9-48c9-9a7c-44c5c164056e.png" width="230">
+
+<span>Let's work together to make the world a better place</span>
+</br>
+</br>
+
 
 ```javascript
 const chanwoo = {
-  gender: "male" | "he",
-  skills: {
-    coreLanguage: [JavaScript, HTML, CSS, TypeScript, Python],
-    coreTools: [React, Node, git],
-    softwareDevelopment: ['Test Driven Development', 'Refactoring'],
-  },
-  interesting: ['Web 3.0', 'Web Component', 'Performance Optimization'],
-  aspiring: 'A sustainable developer',
-  challenge: 'A commit a day',
+
+    Language: {
+        JavaScript: [React, Next.js, Node.js],
+        Python: [Pandas, NumPy, Matplotlib, Seaborn, Plotly]
+    },
+
+    Ongoing_Studying: {
+        ML_DL_NLP: [Scikit_Learn, TensorFlow, PyTorch, SpaCy, NLTK],
+    },
+
+    Aspiring: "Develop a Web to make the world a better place"
 }
 ```
 
